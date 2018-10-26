@@ -1,0 +1,23 @@
+{
+  "name": "hot-restaurant",
+  "version": "1.0.0",
+  "description": "in class",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wherding/hot-restaurant.git"
+  },
+  "author": "no",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wherding/hot-restaurant/issues"
+  },
+  "homepage": "https://github.com/wherding/hot-restaurant#readme",
+  "dependencies": {
+    "express": "4.16.4"
+  }
+}
